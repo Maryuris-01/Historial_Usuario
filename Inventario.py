@@ -42,11 +42,11 @@ while True:
         Costo_Total_Calculado = Precio_Unitario * Cantidad
         
         #Usamos print para mostrarle al usuario el historial de su compra
-        print(rosa + "Datos del producto" + reset)
-        print(verde + "Nombre del producto" + reset,  Nombre_Del_Producto)
-        print(verde + "Precio unitario" + reset , Precio_Unitario)
-        print(verde + "Cantidad" + reset , Cantidad)
-        print(verde + "Costo total calculado" + reset , Costo_Total_Calculado)
+        print(rosa + "Datos del producto :" + reset)
+        print(verde + "Nombre del producto :" + reset,  Nombre_Del_Producto)
+        print(verde + "Precio unitario :" + reset , Precio_Unitario)
+        print(verde + "Cantidad :" + reset , Cantidad)
+        print(verde + "Costo total calculado :" + reset , Costo_Total_Calculado)
         
         #Hacemos uso del break para salir del ciclo en el que estamos
         break
