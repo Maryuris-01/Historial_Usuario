@@ -19,6 +19,8 @@ pidiendóle que ingrese un valor válido
 8. Cuando ya el usuario sabe el valor que debe pagar, el programa le muestra el historial de la compra
 
 
+![alt text](image.png)
+
 
 
 
