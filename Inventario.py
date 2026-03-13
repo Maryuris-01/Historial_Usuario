@@ -69,4 +69,3 @@ while True:
 # El nombre del producto, el precio unitario, la cantidad y el costo total calculado
         
         
-       
