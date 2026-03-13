@@ -2,16 +2,16 @@
 
 ## **Descripción**
 
-*Este programa tiene como función principal llevar un registro específico de la compra de un producto*
+*Este programa tiene como función principal llevar un registro específico al momento de comprar un producto*
 
 ## **¿Cómo funciona?**
 
-_El programa funcion siguendo un algoritmo, el cual consiste en:_
+_El programa funciona siguendo un algoritmo, el cual consiste en:_
 
 1. Le da la bienvenida al usuario
 2. Le pide al usuario que ingrese el nombre del producto que quiere comprar
 3. Le pide al usuario que ingrese el precio unitario del producto
-4. Si el usuario ingresa un valor inválido, el programa le muestra un mensaje, 
+4. Si el usuario ingresa un valor inválido, el programa le muestra un mensaje
 pidiendóle que ingrese un valor válido
 5. El programa le pide al usuario que digite qué cantidad desea llevar
 6. En caso de que el usuario digite un valor inválido, le muestra un mensaje pidiendóle que ingrese un valor válido
