@@ -15,7 +15,7 @@ while True:
         #Hacemos uso del print para darle la bienvenida al usuario
         print(rosa + "🌸✨Bienvenido🌸✨" + reset)
 
- # Definimos la variable Nombre_Del_Producto para pedirle al usuario que ingrese el nombre del producto en específico
+# Definimos la variable Nombre_Del_Producto para pedirle al usuario que ingrese el nombre del producto en específico
         Nombre_Del_Producto = str(input(verde + "Ingrese el nombre del producto \n" + reset))
         
         #Definimos la variable Precio_Unitario para pedirle al usuario el precio del producto
